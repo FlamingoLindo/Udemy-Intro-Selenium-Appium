@@ -1,0 +1,1 @@
+# Utilizando cookies em scripts
