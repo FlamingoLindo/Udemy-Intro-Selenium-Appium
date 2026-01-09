@@ -6,7 +6,9 @@
         "en",
         "pt-br"
     ],
-    "words": [],
+    "words": [
+        "Hammat"
+    ],
     "ignoreWords": [],
     "import": [],
     "language": "en,pt-br"
