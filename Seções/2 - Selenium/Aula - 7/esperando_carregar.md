@@ -2,6 +2,8 @@
 
 Nos exemplos vistos até agora nós apenas estamos apenas iniciando o driver e congelando a execução dele com o uso da biblioteca `time` para esperar um elemento aparecer, mas isso não é considerado uma boa prática pois o Selenium já oferece uma forma nativa de esperar um determinado elemento aparecer utilizando o que é chamado de `explicit await`.
 
+---
+
 1. Primeiro termos que importar dois novos módulos
 
     ```py

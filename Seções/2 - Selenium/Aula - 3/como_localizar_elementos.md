@@ -2,6 +2,8 @@
 
 Como exemplo, vou utilizar a página inicial do google para ser mais fácil.
 
+---
+
 1. Abra o seu navegador Google
 
 2. Aperte a tecla `F12` em seu teclado, que irá abrir a aba de `DevTools`

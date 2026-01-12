@@ -2,6 +2,8 @@
 
 Em muitos casos alguns scripts precisam que fique alterando entre abas ou janelas do seu navegador, então agora vamos aprender como fazer isso
 
+---
+
 1. Pra abrir uma nova aba, utilizamos `driver.switch_to.new_window('tab')`
 
     ```py

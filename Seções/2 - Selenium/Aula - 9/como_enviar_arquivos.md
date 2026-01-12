@@ -2,6 +2,8 @@
 
 Agora nós vamos ver como que se faz para enviar arquivos em scripts
 
+---
+
 1. Primeiro temos que importar a biblioteca `os`
 
     ```py

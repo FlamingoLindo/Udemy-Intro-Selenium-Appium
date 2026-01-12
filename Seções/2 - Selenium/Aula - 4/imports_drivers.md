@@ -2,7 +2,7 @@
 
 Para iniciarmos um script de automatização com selenium, o primeiro passo é importar e inicializar um [webdriver](https://www.selenium.dev/documentation/webdriver/), é uma API que faz realiza a manipulação do navegador automaticamente.
 
-Então tudo o que precisa ser feito é o seguinte:
+---
 
 1. Criar um arquivo como `driver.py`
 

@@ -2,6 +2,8 @@
 
 Agora que já sabemos como iniciar um driver e especificar qual site queremos que ele vá, apenas resta saber como interagir com a página
 
+---
+
 1. Temos que import o módulo `By`que é utilizado para especificar qual tipo de localizador estamos utilizando
 
     ```PY
