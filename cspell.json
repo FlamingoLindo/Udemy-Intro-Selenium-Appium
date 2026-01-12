@@ -7,9 +7,11 @@
         "pt-br"
     ],
     "words": [
+        "abspath",
+        "firefox",
         "Hammat",
-        "venv",
-        "firefox"
+        "Udemy",
+        "venv"
     ],
     "ignoreWords": [],
     "import": [],
