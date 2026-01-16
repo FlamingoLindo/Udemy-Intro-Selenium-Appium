@@ -1,6 +1,6 @@
 # O que é Selenium
 
-Selenium é um [framework](https://aws.amazon.com/pt/what-is/framework/) criado pelo [Jason Huggins](https://www.youtube.com/@jrhugs/videos) em 2004 na época ainda conhecido como "JavaScriptTestRunner" que era utilizado para a execução de testes para um software interno da empresa ThoughtWorks.
+[Selenium](https://www.selenium.dev/) é um [framework](https://aws.amazon.com/pt/what-is/framework/) criado pelo [Jason Huggins](https://www.youtube.com/@jrhugs/videos) em 2004 na época ainda conhecido como "JavaScriptTestRunner" que era utilizado para a execução de testes para um software interno da empresa ThoughtWorks.
 
 Após um tempo Jason passou a fazer demonstrações da sua nova ferramenta em diversas universidades, onde várias pessoas começaram a se interessar pelo Selenium fornecendo feedbacks.
 
