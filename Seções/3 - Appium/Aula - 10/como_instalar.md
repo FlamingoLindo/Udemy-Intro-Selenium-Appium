@@ -1,6 +1,6 @@
 # Como instalar o Appium
 
-Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte da instalação do Selenium ele é um pouco mais complicado.
+Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferente da instalação do Selenium ele é um pouco mais complicado.
 
 ---
 
@@ -27,14 +27,14 @@ Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte d
 
    ![appium_exec](/images/Appium/Aula%20-%201/appium_exec.png)
 
-   Após relizar a verificação acionar as teclas `ctrl + c` para para a execução do appium
+   Após realizar a verificação acionar as teclas `ctrl + c` para para a execução do appium
 
 3. Baixar o Android Studio
 
    ![and](/images/Appium/Aula%20-%201/and.png)
    - Página de [download](https://developer.android.com/studio?hl=pt-br) do Android Studio
 
-4. Relizar a instalação
+4. Realizar a instalação
 
    ![i1](/images/Appium/Aula%20-%201/i1.png)
 
@@ -48,8 +48,8 @@ Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte d
 
    ![i6](/images/Appium/Aula%20-%201/i6.png)
 
-5. Adicionando variaveis de ambiente
-   - Com o Andriod Studio aberto, clique na opção `Customize`
+5. Adicionando variáveis de ambiente
+   - Com o Android Studio aberto, clique na opção `Customize`
      ![a1](/images/Appium/Aula%20-%201/a1.png)
 
    - Na aba `Customize` clique em `All settings...`
@@ -67,11 +67,11 @@ Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte d
    - Clique em `Novo…` e no campo `Nome da variável` digite `ANDROID_HOME` e no `Valor da variável` cole o caminho do `SDK` e clique em `OK`
      ![a6](/images/Appium/Aula%20-%201/a6.png)
 
-   **Obs.:** Os seguintes passos são apenas necessários caso você ainda não tenha a variavel de ambiente `JAVA_HOME` em seu sistema
+   **Obs.:** Os seguintes passos são apenas necessários caso você ainda não tenha a variável de ambiente `JAVA_HOME` em seu sistema
    - Em seguida abra a [página de download do SDK do Java](https://jdk.java.net/25/) e clique e selecione a opção de acordo com o seu sistema operacional
      ![a9](/images/Appium/Aula%20-%201/a9.png)
 
-   - Após o download ter finalizdo, extraia o conteúdo do arquivo em `Arquivos de Programas`
+   - Após o download ter finalizo, extraia o conteúdo do arquivo em `Arquivos de Programas`
      ![a10](/images/Appium/Aula%20-%201/a10.png)
 
    - Copie caminho da pasta `jdk`
@@ -86,7 +86,7 @@ Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte d
 
      **Obs.:** Caso esse pacote ainda não esteja instado, então selecione e clique em `Apply` para fazer o download
 
-   - Para verifacar a instalação, abra o seu terminal e digite `adb`
+   - Para verificar a instalação, abra o seu terminal e digite `adb`
      ![a8](/images/Appium/Aula%20-%201/a8.png)
 
 7. Instalando o Appium Doctor
@@ -108,5 +108,5 @@ Nesse módulos, nós vamos aprender a como se instalar o Appium, que diferemte d
 
 10. Inciando o Appium
 
-- Apartir de agora, sempre que você for iniciar o Appium digite o seguinte comando no terminal `appium --allow-cors`
+- De agora, sempre que você for iniciar o Appium digite o seguinte comando no terminal `appium --allow-cors`
   ![server](/images/Appium/Aula%20-%201/server.png)

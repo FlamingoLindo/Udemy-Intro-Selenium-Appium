@@ -8,9 +8,12 @@
     ],
     "words": [
         "abspath",
+        "appcli",
         "firefox",
         "Hammat",
         "Udemy",
+        "uiauto",
+        "uiautomator2",
         "venv"
     ],
     "ignoreWords": [],
