@@ -9,12 +9,14 @@
     "words": [
         "abspath",
         "appcli",
+        "dumpsys",
         "firefox",
         "Hammat",
         "Udemy",
         "uiauto",
         "uiautomator2",
-        "venv"
+        "venv",
+        "youtube"
     ],
     "ignoreWords": [],
     "import": [],
