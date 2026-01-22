@@ -9,11 +9,11 @@ Assim como no Selenium, para iniciar um script de automação mobile com Appium 
 Crie um arquivo, por exemplo `driver_appium.py`, e comece importando os módulos necessários:
 
 ```py
-from appium import webdriver
+from appium.webdriver import Remote
+from appium.webdriver.common.appiumby import AppiumBy
+from appium.options.android.uiautomator2.base import UiAutomator2Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from appium.options.android import UiAutomator2Options
-from appium.webdriver.common.appiumby import AppiumBy
 ```
 
 - `webdriver`: responsável por criar a sessão de automação com o Appium.
@@ -29,14 +29,14 @@ from appium.webdriver.common.appiumby import AppiumBy
 No Appium, as capabilities informam ao servidor como o script deve ser executado. Elas normalmente são copiadas ou adaptadas diretamente do Appium Inspector.
 
 ```py
-capabilities = dict(
-    noReset=True,
-    automationName='uiautomator2',
-    language='pt',
-    printPageSourceOnFindFailure=True,
-    appPackage='com.google.android.youtube',
-    appActivity='com.google.android.youtube.app.honeycomb.Shell$HomeActivity'
-)
+capabilities = {
+    'noReset': True,
+    'automationName': 'uiautomator2',
+    'language': 'pt',
+    'printPageSourceOnFindFailure': True,
+    'appPackage': 'com.google.android.youtube',
+    'appActivity': 'com.google.android.youtube.app.honeycomb.Shell$HomeActivity'
+}
 ```
 
 - `noReset`

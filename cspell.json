@@ -8,8 +8,11 @@
     ],
     "words": [
         "abspath",
+        "ANDROID_UIAUTOMATOR",
         "appcli",
+        "appium",
         "appiumby",
+        "Automator",
         "dumpsys",
         "firefox",
         "Hammat",
@@ -17,6 +20,7 @@
         "uiauto",
         "UIAutomator",
         "uiautomator2",
+        "velvetrevolverVEVO",
         "venv",
         "youtube"
     ],
